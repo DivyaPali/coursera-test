@@ -1,1 +1,33 @@
+header {
+	background-color: #2f4f4f;
+	height: 100px;
+	padding: 20px 20px 20px 20px;
+
+}
+div h1 {
+	color: white;
+}
+
+div h2 {
+	padding: 20px 20px 20px 20px;
+	color: #999999;
+}
+
+
+#chicken, #beef, #sushi {
+	background-color: #5f9ea0;
+    padding: 20px 20px 20px 20px;
+	margin: 20px 50px 50px 50px;
+}
+
+#chicken div, #beef div, #sushi div {
+	color: #f0fff0;
+}
+
+.dropdown {
+	float: right;
+}
+#end {
+	padding: 0 0 40px 0;
+}
 
