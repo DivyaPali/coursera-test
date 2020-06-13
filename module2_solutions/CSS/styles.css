@@ -29,6 +29,15 @@ p {
     width: 80px;
 	margin: 0px;  
 }
+#s1 p {
+	background-color: #5499c7;
+}	
+#s2 p {
+	background-color: #ec7063;
+}
+#s3 p {
+	background-color: #7dcea0;
+}		
 #s1 {
 	background-color: #0a0afa;
 }
